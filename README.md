@@ -1,1 +1,1 @@
-# Ejemplo-de-programaci-n-multhilo
+Ejemplo sencillo de procesos multihilos
